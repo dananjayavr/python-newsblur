@@ -1,19 +1,19 @@
 ===============
 python-newsblur
-==============
+===============
 
-A Python wrapper library for accessing API of newsblur.com
+A Python wrapper library for accessing API of newsblur.com.
 
 Copyright Dananjaya Ramanayake <dananjaya86@gmail.com>, released under the MIT license.
 
-Source: 
+Source: https://github.com/dananjayavr/python-newsblur
 
 
 Installation
-===========
+============
 To install run
 
  ``python setup.py install``
 
 Usage:
-=====
+======
