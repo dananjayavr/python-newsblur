@@ -20,5 +20,5 @@ setup(name='newsblur',
 		   'Programming Language :: Python',
 		   'Topic :: Internet :: WWW/HTTP :: News/RSS',
 		  ]
-      entry_points=['console_scripts':['newsblur=newsblur:main']],
+      entry_points={'console_scripts':['newsblur=newsblur:main']},
       )
