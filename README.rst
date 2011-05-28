@@ -8,6 +8,8 @@ Copyright Dananjaya Ramanayake <dananjaya86@gmail.com>, released under the MIT l
 
 Source: https://github.com/dananjayavr/python-newsblur
 
+For more information please check the newsblur.com API documentation at, http://www.newsblur.com/api
+
 
 Installation
 ============
