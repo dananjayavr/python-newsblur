@@ -19,7 +19,7 @@ To install run
 
 Usage:
 ======
-*Login*:
+Login:
 
   ``import newsblur``
 
