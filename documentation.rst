@@ -24,12 +24,12 @@ Signup:
   
   ``newsblur.signup('samuelclay','new$blur','samuel@ofbrooklyn.com')``
 
-Output:
+Output (Successful):
 
-Successful Output:
   ``{"code": -1, "result": "ok"}``
 
-Unsuccessful Output:
+Output (Unsuccessful):
+
   ``{"code": -1, "result": "ok"}``
 
 
