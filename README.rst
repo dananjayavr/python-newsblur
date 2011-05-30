@@ -19,7 +19,7 @@ To install run
 
 Usage:
 ======
-*Login:
+*Login*:
 
   ``import newsblur``
 
@@ -30,7 +30,7 @@ Output:
   ``{"code": 1, "result": "ok"}``
 
 
-*Logout:
+*Logout*:
   ``newsblur.logout()``
 
 Output:
