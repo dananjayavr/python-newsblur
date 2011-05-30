@@ -26,10 +26,10 @@ Signup:
 
 Output:
 
-If Successful
+Successful Output:
   ``{"code": -1, "result": "ok"}``
 
-If Unsuccessful
+Unsuccessful Output:
   ``{"code": -1, "result": "ok"}``
 
 
