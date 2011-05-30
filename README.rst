@@ -20,4 +20,4 @@ To install run
 Usage:
 ======
 
-Please read the documentation at https://dananjayavr@github.com/dananjayavr/python-newsblur.git for more information.
+Please read the documentation.rst file.
