@@ -31,7 +31,7 @@ Output:
 
 
 
-*Logout*:
+Logout:
   ``newsblur.logout()``
 
 Output:
