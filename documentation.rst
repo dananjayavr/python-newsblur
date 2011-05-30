@@ -26,7 +26,7 @@ Signup:
 
 Output (Successful):
 
-  ``{"code": -1, "result": "ok"}``
+  ``{"code": 1, "result": "ok"}``
 
 Output (Unsuccessful):
 
