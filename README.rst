@@ -30,6 +30,7 @@ Output:
   ``{"code": 1, "result": "ok"}``
 
 
+
 *Logout*:
   ``newsblur.logout()``
 
