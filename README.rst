@@ -21,11 +21,11 @@ Usage:
 ======
 Login:
 
-  ``import newsblur'
+  ``import newsblur``
 
   ``newsblur.login('samuelclay','new$blur')``
 
-  output:
+Output:
 
   ``{"code": 1, "result": "ok"}``
 
