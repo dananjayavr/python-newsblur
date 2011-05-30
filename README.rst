@@ -17,3 +17,14 @@ To install run
 
 Usage:
 ======
+Login:
+
+  ``import newsblur'
+
+  ``newsblur.login('samuelclay','new$blur')``
+
+  output:
+
+  ``{"code": 1, "result": "ok"}``
+
+
